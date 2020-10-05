@@ -1,0 +1,367 @@
+@import url('https://fonts.googleapis.com/css2?family=Bangers&display=swap');
+
+body{
+margin: 0;
+padding: 0;
+background-color: #FFFFE0;
+font-family: 'Bangers', cursive;
+}
+.fast-stap{
+width: 65%;
+height: 500px;
+background-color: #dcdde1;
+margin: auto;
+text-align: center;
+margin-bottom: 50px;
+box-shadow: 2px 5px 20px #0000FF;
+}
+.fast-stap img{
+width: 200px;
+height: 200px;
+border: 2px solid red;
+margin: 0px 5px;
+}
+.sagen-part{
+width: 90%;
+height: 300px;
+background-color: #FDF5E6;
+margin: auto;
+position: relative;
+border-radius: 5px;
+margin-bottom: 50px;
+box-shadow: 2px 5px 20px red;
+}
+.box1 {
+width: 10%;
+height: 100px;
+background-color: #FF0000;
+position: absolute;
+right: 0;
+}
+.box2 {
+width: 10%;
+height: 100px;
+background-color: #FFFF00;
+position: absolute;
+right: 10%;
+}
+.box3 {
+width: 10%;
+height: 100px;
+background-color: #FF00FF;
+position: absolute;
+right: 20%;
+}
+.box4 {
+width: 10%;
+height: 100px;
+background-color: #fbc531;
+position: absolute;
+right: 30%;
+}
+.box5 {
+width: 10%;
+height: 100px;
+background-color: #01a3a4;
+position: absolute;
+right: 40%;
+}
+.box6 {
+width: 10%;
+height: 100px;
+background-color: #ff9f43;
+position: absolute;
+right: 50%;
+}
+.box7 {
+width: 10%;
+height: 100px;
+background-color: #ee5253;
+position: absolute;
+right: 60%;
+}
+.box8 {
+width: 10%;
+height: 100px;
+background-color: #353b48;
+position: absolute;
+right: 70%;
+}
+.box9 {
+width: 10%;
+height: 100px;
+background-color: #341f97;
+position: absolute;
+right: 80%;
+}
+.box10 {
+width: 10%;
+height: 100px;
+background-color: #10ac84;
+position: absolute;
+right: 90%;
+}
+.box11 {
+width: 10%;
+height: 100px;
+background-color: #10ac84;
+position: absolute;
+bottom: 0;
+right: 0%;
+}
+.box12 {
+width: 10%;
+height: 100px;
+background-color: #341f97;
+position: absolute;
+bottom: 0;
+right: 10%;
+}
+.box13 {
+width: 10%;
+height: 100px;
+background-color: #353b48;
+position: absolute;
+bottom: 0;
+right: 20%;
+}
+.box14 {
+width: 10%;
+height: 100px;
+background-color: #ee5253;
+position: absolute;
+bottom: 0;
+right: 30%;
+}
+.box15 {
+width: 10%;
+height: 100px;
+background-color: #ff9f43;
+position: absolute;
+bottom: 0;
+right: 40%;
+}
+.box16 {
+width: 10%;
+height: 100px;
+background-color: #01a3a4;
+position: absolute;
+bottom: 0;
+right: 50%;
+}
+.box17 {
+width: 10%;
+height: 100px;
+background-color: #fbc531;
+position: absolute;
+bottom: 0;
+right: 60%;
+}
+.box18 {
+width: 10%;
+height: 100px;
+background-color: #273c75;
+position: absolute;
+bottom: 0;
+right: 70%;
+}
+.box19 {
+width: 10%;
+height: 100px;
+background-color: #192a56;
+position: absolute;
+bottom: 0;
+right: 80%;
+}
+.box20 {
+width: 10%;
+height: 100px;
+background-color: #4cd137;
+position: absolute;
+bottom: 0;
+right: 90%;
+}
+.mid{
+width: 90%;
+height: 300px;
+background-color:#B0E0E6;
+margin: auto;
+position: relative;
+border-radius: 5px;
+margin-bottom: 50px;
+box-shadow: 2px 5px 20px #000000;
+}
+.boxa {
+width: 10%;
+height: 100px;
+background-color: #192a56;
+position: absolute;
+right: 0;
+}
+.boxb {
+width: 10%;
+height: 100px;
+background-color: #4cd137;
+position: absolute;
+right: 10%;
+}
+.boxc {
+width: 10%;
+height: 100px;
+background-color: #273c75;
+position: absolute;
+right: 20%;
+}
+.boxd {
+width: 10%;
+height: 100px;
+background-color: #fbc531;
+position: absolute;
+right: 30%;
+}
+.boxe {
+width: 10%;
+height: 100px;
+background-color: #01a3a4;
+position: absolute;
+right: 40%;
+}
+.boxf {
+width: 10%;
+height: 100px;
+background-color: #ff9f43;
+position: absolute;
+right: 50%;
+}
+.boxg {
+width: 10%;
+height: 100px;
+background-color: #ee5253;
+position: absolute;
+right: 60%;
+}
+.boxh {
+width: 10%;
+height: 100px;
+background-color: #353b48;
+position: absolute;
+right: 70%;
+}
+.boxi {
+width: 10%;
+height: 100px;
+background-color: #341f97;
+position: absolute;
+right: 80%;
+}
+.boxj {
+width: 10%;
+height: 100px;
+background-color: #10ac84;
+position: absolute;
+right: 90%;
+}
+.boxk {
+width: 10%;
+height: 100px;
+background-color: #10ac84;
+position: absolute;
+bottom: 0;
+right: 0%;
+}
+.boxl {
+width: 10%;
+height: 100px;
+background-color: #341f97;
+position: absolute;
+bottom: 0;
+right: 10%;
+}
+.boxm {
+width: 10%;
+height: 100px;
+background-color: #353b48;
+position: absolute;
+bottom: 0;
+right: 20%;
+}
+.boxn {
+width: 10%;
+height: 100px;
+background-color: #ee5253;
+position: absolute;
+bottom: 0;
+right: 30%;
+}
+.boxo {
+width: 10%;
+height: 100px;
+background-color: #ff9f43;
+position: absolute;
+bottom: 0;
+right: 40%;
+}
+.boxp {
+width: 10%;
+height: 100px;
+background-color: #01a3a4;
+position: absolute;
+bottom: 0;
+right: 50%;
+}
+.boxq {
+width: 10%;
+height: 100px;
+background-color: #fbc531;
+position: absolute;
+bottom: 0;
+right: 60%;
+}
+.boxr {
+width: 10%;
+height: 100px;
+background-color: #FF00FF;
+position: absolute;
+bottom: 0;
+right: 70%;
+}
+.boxs {
+width: 10%;
+height: 100px;
+background-color:#FFFF00;
+position: absolute;
+bottom: 0;
+right: 80%;
+}
+.boxt{
+width: 10%;
+height: 100px;
+background-color:#FF0000;
+position: absolute;
+bottom: 0;
+right: 90%;
+}
+
+/* tiiihs i ksd*/
+
+.flag{
+  width: 100%;
+  padding: 50px;
+  box-sizing: border-box;
+}
+.green-area{
+        width: 700px;
+        height: 300px;
+        background: green;
+        margin: auto;
+        overflow: hidden;
+      
+}
+      .red-area{
+
+      width: 160px;
+      height: 160px;
+      background: red;
+      border-radius: 50%;
+      margin: 62px 262px;
+    }
